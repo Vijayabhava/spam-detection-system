@@ -1,0 +1,4 @@
+Model,Accuracy,Minority-Class Recall,Macro-F1,Balanced Accuracy,MCC
+Naive Bayes,3,3,3,3,3
+Logistic Regression,2,2,2,2,2
+Linear SVM,1,1,1,1,1
