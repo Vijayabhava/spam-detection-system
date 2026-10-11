@@ -1,1 +1,7 @@
 # Dependencies will be added step by step.
+streamlit
+joblib
+scikit-learn
+pandas
+numpy
+matplotlib
