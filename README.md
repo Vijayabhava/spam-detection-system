@@ -129,6 +129,7 @@ The choice of metric did not change the top-ranked model in this experiment. Thi
 **Project:** SpamShield AI — SMS Spam Detection  
 **Program:** M.Tech CSE (AI & ML)  
 **Institution:** Birla Institute of Technology, Mesra
+**Presented By:** Aditya Banerjee (MT/AI/10006/26) and Sumit Sharma (MT/AI/10031/26)
 
 ---
 
