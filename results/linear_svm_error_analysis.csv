@@ -1,0 +1,13 @@
+message,actual,predicted,spam_probability,message_length,word_count,error_type
+Waiting for your call.,ham,spam,0.9798593604928127,22,4,False Positive
+ringtoneking 84484,spam,ham,0.024557947443400608,18,2,False Negative
+Sorry I missed your call let's talk when you have the time. I'm on 07090201529,spam,ham,0.01588747733160872,78,15,False Negative
+"Latest News! Police station toilet stolen, cops have nothing to go on!",spam,ham,0.13121891271712904,70,12,False Negative
+Ok... Ur typical reply...,ham,spam,0.9858495755222032,25,4,False Positive
+For sale - arsenal dartboard. Good condition but no doubles or trebles!,spam,ham,0.0941422028894036,71,12,False Negative
+Email AlertFrom: Jeri StewartSize: 2KBSubject: Low-cost prescripiton drvgsTo listen to email call 123,spam,ham,0.4885470154512559,101,13,False Negative
+ROMCAPspam Everyone around should be responding well to your presence since you are so warm and outgoing. You are bringing in a real breath of sunshine.,spam,ham,0.08368380686785735,152,26,False Negative
+"Do you realize that in about 40 years, we'll have thousands of old ladies running around with tattoos?",spam,ham,0.0018123778447536867,102,18,False Negative
+On the road so cant txt,ham,spam,0.6009263658173291,23,6,False Positive
+Nokia phone is lovly..,ham,spam,0.5105312347193375,22,4,False Positive
+"Hi ya babe x u 4goten bout me?' scammers getting smart..Though this is a regular vodafone no, if you respond you get further prem rate msg/subscription. Other nos used also. Beware!",spam,ham,0.009779804477577123,181,31,False Negative
